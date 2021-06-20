@@ -23,6 +23,13 @@ There is also consistent usage during the weekend days (Saturday and Sunday) bet
 
 
 
+### Trips by Gender
+These visualizations gives a breakdown of riders by gender throughout the week. We can see that the bike sharing program is highly dominated by male users with the majority of users being Subscribers.
+
+
+
+
+
 ### Top Starting Locations
 Shows that the top locations are concentrated in a central part of NYC (lower Manhattan), with small usage in the surrounding areas.
 ### Checkout Times for Users
