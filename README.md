@@ -1,10 +1,15 @@
 # Citi Bike Cruisin'
 
 ## Purpose
-To analysis the data provided by Citi Bike for the month of August in order to assess information about the users, trips and usage of bikes to aid in our preparation for a similar business in Des Moines.
+Let's go for a ride!
+
+The purpose of this analysis is to show how successful the Citi Bike bike sharing service is in New York City during the month of August. I'll use this analysis to determine if a similar program should be incorporated in Des Moines, IA.
+
+I have included some screenshots of my data analysis, as well as provided a link to show all of my anlaysis in the Results section.
 
 ## Analysis
-[Link to dashboard](https://public.tableau.com/profile/andrew.tavender#!/vizhome/bikesharing_challenge_16016609103890/CitiBikeAnalysis)
+[Link to dashboard](https://public.tableau.com/app/profile/brian.gerrard/viz/CitiBikeCruisin_16239726421490/Story1)
+
 In our analysis, we have provided the following visualizations:
 ### Top Starting Locations
 Shows that the top locations are concentrated in a central part of NYC (lower Manhattan), with small usage in the surrounding areas.
