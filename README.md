@@ -50,12 +50,13 @@ In order for this to be successful in another location, you would want to consid
 
 Overall, I think the bike sharing program would be popular and worth the investment.
 
-## Links
+## Links to Citibike Dashboards, Stories and Worksheets:
+
 
 [NYC Citibike Challenge - Gender Data](https://public.tableau.com/app/profile/brian.gerrard/viz/NYCCitibikeChallenge-GenderData/GenderData)
 
 
-
+Weekdays Dashboard
 
 
 
