@@ -18,6 +18,7 @@ There is also consistent usage during the weekend days (Saturday and Sunday) bet
 <img width="473" alt="total_trips_by_weekday" src="https://user-images.githubusercontent.com/75700317/122683931-62726900-d1d0-11eb-8782-016c252c2085.png">
 
 
+<img width="710" alt="trips_weekday_per_hour" src="https://user-images.githubusercontent.com/75700317/122684089-78345e00-d1d1-11eb-8594-f9ec59f3de20.png">
 
 
 
