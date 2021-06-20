@@ -25,21 +25,34 @@ There is also consistent usage during the weekend days (Saturday and Sunday) bet
 
 
 
-### Trips by Gender [*click here to see full 'Trips by Gender' data*](https://public.tableau.com/app/profile/brian.gerrard/viz/NYCCitibikeChallenge-GenderData/GenderData)
+### Trips by Gender
+[*click here to see full 'Trips by Gender' data*](https://public.tableau.com/app/profile/brian.gerrard/viz/NYCCitibikeChallenge-GenderData/GenderData)
 
 These visualizations gives a breakdown of riders by gender throughout the week. We can see that the bike sharing program is highly dominated by male users with the majority of users being Subscribers.
 
 <img width="601" alt="bike_user_by _gender" src="https://user-images.githubusercontent.com/75700317/122684713-0c53f480-d1d5-11eb-8f4e-4d9c2f6d606d.png">
 
 
+### Bike Utilization
+[*click here to see full breakdown of trip duration*](https://public.tableau.com/app/profile/brian.gerrard/viz/NYCCitibikeChallenge_16239752632880/Weekdays)
+
+When drilling down on trip duration, the data tells us that people are only using bikes on average less than an hour at a given time with the majority of trips being betweek 5-10 minutes long. 
+
+
+
 
 
 ### Top Starting Locations
 Shows that the top locations are concentrated in a central part of NYC (lower Manhattan), with small usage in the surrounding areas.
-### Checkout Times for Users
-Shows that checkout times peak in the early morning hours during the week.
-### Bike Utilization
-Shows that most bikes are used similar amounts, with only a few used at more aggressive or higher levels.
+
+
+
+
+
+
+
+
+
 ### Trips by Weekday by Hour
 Shows that early morning is a very busy time between 6-9am during the work week, and 5-6pm during the work week. During the weekends, trips are more evenly spread out.
 ### Checkout times by Gender
