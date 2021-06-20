@@ -15,6 +15,9 @@ By looking at the data, we can see that most bikes are checked out between 7 to 
 
 There is also consistent usage during the weekend days (Saturday and Sunday) between the hours 10 am to 6 pm, which could be because of tourist visiting the city on the weekends. The weekend hours do not have the same demand in specific hours of the day compared to the weekdays, but the trips are more spread out amongst the day. I wanted to see what the total of trips per Weekday was, and found that Sunday and Wednesday have the lowest number of trips, and Thursday through Saturday have the highest number. Thursday has the highest number of trips of any weekday and I would attribute this to having both commuters utilizing the bikes as well as tourist that fly in for a long weekend. Below is a breakdown of "Total Trips by Weekday" and" Total Trips by Weekday Per Hour":
 
+<img width="473" alt="total_trips_by_weekday" src="https://user-images.githubusercontent.com/75700317/122683931-62726900-d1d0-11eb-8782-016c252c2085.png">
+
+
 
 
 
