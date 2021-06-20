@@ -3,9 +3,9 @@
 ## Purpose
 Let's go for a ride!
 
-The purpose of this analysis is to show how successful the Citi Bike bike sharing service is in New York City during the month of August. I'll use this analysis to determine if a similar program should be incorporated in Des Moines, IA.
+The purpose of this analysis is to analyze the Citibike program in New York city during the month of August and determine if a similar program could be successful if incorporated in Des Moines, IA.
 
-I have included some screenshots of my data analysis, as well as provided a link to show all of my anlaysis in the Results section.
+Please see my results section below for a breakdown of my findings along with Tableau visualizations. 
 
 
 ## Results 
