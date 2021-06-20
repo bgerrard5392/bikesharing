@@ -26,6 +26,7 @@ There is also consistent usage during the weekend days (Saturday and Sunday) bet
 ### Trips by Gender
 These visualizations gives a breakdown of riders by gender throughout the week. We can see that the bike sharing program is highly dominated by male users with the majority of users being Subscribers.
 
+<img width="601" alt="bike_user_by _gender" src="https://user-images.githubusercontent.com/75700317/122684713-0c53f480-d1d5-11eb-8f4e-4d9c2f6d606d.png">
 
 
 
