@@ -8,9 +8,17 @@ The purpose of this analysis is to show how successful the Citi Bike bike sharin
 I have included some screenshots of my data analysis, as well as provided a link to show all of my anlaysis in the Results section.
 
 ## Analysis
-[Link to dashboard](https://public.tableau.com/app/profile/brian.gerrard/viz/CitiBikeCruisin_16239726421490/Story1)
+[Link to dashboard](https://public.tableau.com/app/profile/brian.gerrard/viz/CitiBikeCruisin_16239726421490/Story1) In our analysis, we have provided the following visualizations:
 
-In our analysis, we have provided the following visualizations:
+## Results 
+By looking at the data, we can see that most bikes are checked out between 7 to 9 am, and 5 to 7 pm on the weekdays (Monday through Friday). I would say these times represent a New Yorkers daily commute to and from work. This trend is also present when we look at the demand per hour in the month of August, with the highest number of trips being between 5 to 6 pm.
+
+There is also consistent usage during the weekend days (Saturday and Sunday) between the hours 10 am to 6 pm, which could be because of tourist visiting the city on the weekends. The weekend hours do not have the same demand in specific hours of the day compared to the weekdays, but the trips are more spread out amongst the day. I wanted to see what the total of trips per Weekday was, and found that Sunday and Wednesday have the lowest number of trips, and Thursday through Saturday have the highest number. Thursday has the highest number of trips of any weekday and I would attribute this to having both commuters utilizing the bikes as well as tourist that fly in for a long weekend. Below is a breakdown of "Total Trips by Weekday" and" Total Trips by Weekday Per Hour":
+
+
+
+
+
 ### Top Starting Locations
 Shows that the top locations are concentrated in a central part of NYC (lower Manhattan), with small usage in the surrounding areas.
 ### Checkout Times for Users
