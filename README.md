@@ -55,8 +55,7 @@ Overall, I think the bike sharing program would be popular and worth the investm
 
 [NYC Citibike Challenge - Gender Data](https://public.tableau.com/app/profile/brian.gerrard/viz/NYCCitibikeChallenge-GenderData/GenderData)
 
+[Weekdays Dashboard](https://public.tableau.com/app/profile/brian.gerrard/viz/NYCCitibikeChallenge_16239752632880/Weekdays)
 
-Weekdays Dashboard
-
-
+[NYC Story](https://public.tableau.com/app/profile/brian.gerrard/viz/CitiBikeCruisin_16239726421490/Story1)
 
