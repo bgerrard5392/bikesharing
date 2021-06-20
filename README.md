@@ -36,8 +36,9 @@ These visualizations gives a breakdown of riders by gender throughout the week. 
 ### Bike Utilization
 [*click here to see full breakdown of trip duration*](https://public.tableau.com/app/profile/brian.gerrard/viz/NYCCitibikeChallenge_16239752632880/Weekdays)
 
-When drilling down on trip duration, the data tells us that people are only using bikes on average less than an hour at a given time with the majority of trips being betweek 5-10 minutes long. 
+When drilling down on trip duration, the data tells us that people are only using bikes on average less than an hour at a given time with the majority of trips being betweek 5-10 minutes long. This visualization also emphasizes that my previous point of males being the dominat users. 
 
+<img width="1042" alt="duration_by_gender" src="https://user-images.githubusercontent.com/75700317/122685230-0b709200-d1d8-11eb-8875-2cb9ad328aea.png">
 
 
 
@@ -53,14 +54,6 @@ Shows that the top locations are concentrated in a central part of NYC (lower Ma
 
 
 
-### Trips by Weekday by Hour
-Shows that early morning is a very busy time between 6-9am during the work week, and 5-6pm during the work week. During the weekends, trips are more evenly spread out.
-### Checkout times by Gender
-Shows make users more active in the early hours of the day, with both female and male users peaking between 4-6am. We have more male users (by a wide margin) in our data.
-### User Trips By Gender By Weekday
-Shows that our subscribers are most active, with both male and female users taking the most trips during the work week. For both genders we see a drop off mid-week on Wednesdays, which may need to be explored further.
-### Trips by Gender by Hour
-Shows early morning peaks for both female and male users (with the busiest time being 8am), and in the afternoon between 5-6 pm. On Saturday's we see usage spread out more, and significantly lower trips on Sunday than Saturday.
 
 ## Summary
 Overall we have significantly more male than female users, with peak usages occuring during the work week. Peak usage also occurs during the morning and evening "rush hour" when people are likely commuting to work.
